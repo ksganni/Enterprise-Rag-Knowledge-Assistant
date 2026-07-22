@@ -1,0 +1,28 @@
+TechCorp Inc.
+IT Security Policy (Excerpt)
+================================
+
+SECTION 1: PASSWORD REQUIREMENTS
+---------------------------------
+Passwords must be at least 12 characters and include uppercase, lowercase,
+a number, and a symbol. Passwords expire every 90 days.
+
+SECTION 2: VPN ACCESS
+---------------------
+Remote access requires the company VPN. Install TechCorp VPN from the
+software portal. Multi-factor authentication (MFA) is mandatory.
+
+SECTION 3: DEVICE POLICY
+------------------------
+Company laptops must have full-disk encryption enabled.
+Personal devices may not store customer data or source code.
+
+SECTION 4: INCIDENT REPORTING
+-----------------------------
+Report suspected security incidents to security@techcorp.com within 30 minutes.
+Do not delete logs or shut down systems unless instructed by IT Security.
+
+SECTION 6: ACCEPTABLE USE
+-------------------------
+Work systems are for business use only.
+Streaming, torrenting, and unauthorized software are prohibited.
