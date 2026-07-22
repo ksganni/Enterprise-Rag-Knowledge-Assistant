@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data & vector store (generated at runtime)
+data/uploads/
+data/chroma_db/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
